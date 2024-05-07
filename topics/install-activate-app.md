@@ -8,7 +8,7 @@ The following procedure shows how to install the extension through the Extension
 
 ![Extension Install](../images/install-activate-app/extension-install.png)
 
-3.	In the AppSource Apps for Business Central search for **Extended Time Sheets Dime Scheduler**.
+3.	In the AppSource Apps for Business Central search for **Extended Time Sheets (Dime Scheduler)**.
 4.	Select the app. 
 5.	Select Free Trial. 
 6.	Choose from the menu the Deployment Status action. 

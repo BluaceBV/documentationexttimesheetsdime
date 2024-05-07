@@ -1,5 +1,5 @@
-# Manual Extended Time Sheets Dime.Scheduler
-The app Extended Time Sheets Dime Scheduler adds an integration with the powerful graphical interface of Dime.Scheduler (https://www.dimescheduler.com) for planning projects based on the Extended Time Sheets app.
+# Manual Extended Time Sheets (Dime.Scheduler)
+The app Extended Time Sheets (Dime Scheduler) adds an integration with the powerful graphical interface of Dime.Scheduler (https://www.dimescheduler.com) for planning projects based on the Extended Time Sheets app.
 The app will enable you to send your projects to Dime.Scheduler and drag and drop your project tasks that are enabled for time sheets on your planning board. The result is a project planning line with starting date/time and ending date/time on the project task with Line Type Budget for the chosen resource.
 
 ### [Install and activate the app](topics/install-activate-app.md)
